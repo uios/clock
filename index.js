@@ -801,5 +801,5 @@ window.sacred = {
   }
 };
 
-document.body.dataset.theme = "dark";
+//document.body.dataset.theme = "dark";
 startTime();
