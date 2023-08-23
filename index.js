@@ -7,7 +7,7 @@ function startTime() {
   let ap = h < 12 ? "a" : "p";
   let t = hr + ":" + m;
 
-  docuemnt.getElementById("hour").innerHTML = hr;
+  document.getElementById("hour").innerHTML = hr;
   document.getElementById("minute").innerHTML = m;
   //byId('second').innerHTML =  s;
   document.getElementById("a-p").innerHTML = ap;
