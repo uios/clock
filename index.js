@@ -802,4 +802,4 @@ window.sacred = {
 };
 
 //document.body.dataset.theme = "dark";
-startTime();
+window.onload = startTime;
